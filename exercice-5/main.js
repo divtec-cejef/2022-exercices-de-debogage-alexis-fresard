@@ -1,5 +1,5 @@
 (function main() {
-	let lancementOk = false;
+	lancementOk = false;
 	let niveauDeCarburant = 27000;
 
 	if (niveauDeCarburant >= 20000) {
